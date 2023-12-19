@@ -8,6 +8,8 @@ Here we can upload **`CSV`** and query on the data in the CSV. Just like we do q
 **Remark:** Here table means  `csv file name` <br>
 `Source`: The CSV i have provide in this project is taken from 
 Link : https://www.stats.govt.nz/large-datasets/csv-files-for-download/
+## INFO: 
+Scroll down, you will get to know to get this project and install locally in you machine and run and **HAVE FUN**
 
 ### Snippets :
 ## HOME:
